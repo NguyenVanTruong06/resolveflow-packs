@@ -1,0 +1,331 @@
+{
+  "version": "1.0.0",
+  "packs": [
+    {
+      "id": "acidbite_elements_sfx",
+      "name": "Kho Âm Hiệu Điện Ảnh AcidBite Elements SFX",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "147 âm thanh Whoosh, Hit, Impact, Cinematic sound 24-bit WAV cao cấp chuẩn phòng thu điện ảnh.",
+      "categories": [
+        "sfx"
+      ],
+      "item_count": 147,
+      "created_at": "2026-11-08T12:55:08.793249",
+      "download_url": "https://drive.google.com/file/d/1kva0qYbZF1tOJ7P_DObbkP7b_HPN-7V1/view?usp=sharing",
+      "size_mb": 962.3,
+      "tags": [
+        "sfx",
+        "whoosh",
+        "cinematic",
+        "impact",
+        "wav"
+      ]
+    },
+    {
+      "id": "davinci_speed_ramp_transitions",
+      "name": "Gói Chuyển Cảnh Speed Ramp Seamless Transitions",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "Bộ chuyển cảnh mượt mà Speed Ramp chuẩn DaVinci Resolve (.drfx) kèm video demo minh họa & hướng dẫn, cài 1-click tự nhận diện.",
+      "categories": [
+        "transitions"
+      ],
+      "item_count": 12,
+      "created_at": "2026-11-08T12:55:08.793269",
+      "download_url": "https://drive.google.com/file/d/16zqeF1TClWTAC-53MaTtrYu3odfeb18K/view?usp=sharing",
+      "size_mb": 97.5,
+      "tags": [
+        "transitions",
+        "drfx",
+        "speedramp",
+        "seamless",
+        "davinci"
+      ]
+    },
+    {
+      "id": "davinci_gr44_seamless_transitions",
+      "name": "Gói Chuyển Cảnh GR-44 v1.4 & Sound FX",
+      "version": "1.4.0",
+      "author": "ChunnDVC Vault",
+      "description": "Bộ chuyển cảnh chuyển động GR-44 cho DaVinci Resolve Studio & Free kèm 119 âm thanh SFX và video demo xem trước từng hiệu ứng.",
+      "categories": [
+        "transitions",
+        "sfx"
+      ],
+      "item_count": 1130,
+      "created_at": "2026-11-08T12:55:08.793274",
+      "download_url": "https://drive.google.com/file/d/12mouRJ7wbsJIe4bhABnoxo-MhOHw6wU9/view?usp=sharing",
+      "size_mb": 288.1,
+      "tags": [
+        "transitions",
+        "gr44",
+        "sfx",
+        "motion",
+        "davinci"
+      ]
+    },
+    {
+      "id": "fusion_skin_retouching_macros",
+      "name": "Gói Macro Tút Da Mịn Mặt DaVinci (Skin Retouching)",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "Macro Fusion chuyên dụng làm mịn da, xóa mụn tự động trực tiếp trên DaVinci Resolve (.setting, .drfx).",
+      "categories": [
+        "titles"
+      ],
+      "item_count": 6,
+      "created_at": "2026-11-08T12:55:08.793284",
+      "download_url": "https://drive.google.com/file/d/11Sk70Y_kfhpb1uU14kp_EJsDL3NzW-12/view?usp=sharing",
+      "size_mb": 0.9,
+      "tags": [
+        "fusion",
+        "macro",
+        "skin",
+        "retouch",
+        "beauty"
+      ]
+    },
+    {
+      "id": "davinci_unfold_paper_animator",
+      "name": "Hiệu Ứng Lật Mở Giấy Unfold Paper Animator",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "Hiệu ứng xếp giấy, lật mở giấy Stop-motion hoạt họa độc đáo cho DaVinci Resolve kèm 70 texture giấy thực và video minh họa trực quan.",
+      "categories": [
+        "transitions",
+        "overlays"
+      ],
+      "item_count": 74,
+      "created_at": "2026-11-08T12:55:08.793290",
+      "download_url": "https://drive.google.com/file/d/1Tkr6b0yaNrF9e-jpAIN3pIgC7J8F1Mg5/view?usp=sharing",
+      "size_mb": 17.1,
+      "tags": [
+        "paper",
+        "stopmotion",
+        "texture",
+        "drfx",
+        "davinci"
+      ]
+    },
+    {
+      "id": "secret_sauce_cinema_luts",
+      "name": "Bộ Bảng Màu Điện Ảnh Secret Sauce LUTs",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "8 bảng màu điện ảnh cao cấp: Ferrari Red, HongKong Blue, Amsterdam Silver... chuẩn .cube 33x.",
+      "categories": [
+        "luts"
+      ],
+      "item_count": 8,
+      "created_at": "2026-11-08T12:55:08.793294",
+      "download_url": "https://drive.google.com/file/d/15S4dumr_su0OJGY7nuf-MQ4RB3FwIRwC/view?usp=sharing",
+      "size_mb": 21.2,
+      "tags": [
+        "luts",
+        "color",
+        "cinema",
+        "ferrari",
+        "cube"
+      ]
+    },
+    {
+      "id": "iphone_cinematic_luts",
+      "name": "Bộ LUTs Quay iPhone & Apple Log",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "8 bảng màu tối ưu chuẩn xác cho video quay bằng iPhone và hệ màu Apple Log.",
+      "categories": [
+        "luts"
+      ],
+      "item_count": 8,
+      "created_at": "2026-11-08T12:55:08.793299",
+      "download_url": "https://drive.google.com/file/d/17Nl7vS-KcPrrMJquAg2Rs11_oXDfuUtZ/view?usp=sharing",
+      "size_mb": 9.7,
+      "tags": [
+        "iphone",
+        "applelog",
+        "lut",
+        "mobile",
+        "cube"
+      ]
+    },
+    {
+      "id": "green_screen_memes_109",
+      "name": "Kho 109 Video Meme Phông Xanh (Green Screen)",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "109 video phông xanh hài hước, countdown, meme trend... Dễ dàng tách nền 1-click với 3D Keyer.",
+      "categories": [
+        "memes"
+      ],
+      "item_count": 109,
+      "created_at": "2026-11-08T12:55:08.793302",
+      "download_url": "https://drive.google.com/file/d/1D7ay6vf6c1GOg4JTxuRMoCesg-GQCmbB/view?usp=sharing",
+      "size_mb": 307.7,
+      "tags": [
+        "meme",
+        "greenscreen",
+        "countdown",
+        "viral",
+        "keyer"
+      ]
+    },
+    {
+      "id": "dehancer_pro_ofx_plugin",
+      "name": "Plugin Giả Lập Phim Nhựa Dehancer Pro OFX",
+      "version": "7.2.1",
+      "author": "ChunnDVC Vault",
+      "description": "Plugin mô phỏng màu film nhựa Kodak & Fuji 35mm đỉnh cao chuyên dụng cho DaVinci Resolve (Win & Mac).",
+      "categories": [
+        "luts"
+      ],
+      "item_count": 2,
+      "created_at": "2026-11-08T12:55:08.793306",
+      "download_url": "https://drive.google.com/file/d/17Ysow6gRJITEOEbgnkU-xHk9cVDLn_ad/view?usp=sharing",
+      "size_mb": 661.7,
+      "tags": [
+        "dehancer",
+        "ofx",
+        "plugin",
+        "film",
+        "grain"
+      ]
+    },
+    {
+      "id": "urban_street_action_sfx",
+      "name": "Kho Âm Hiệu Đường Phố & Hành Động (Urban Action SFX)",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "140 âm thanh đường phố, va chạm, kim loại, xe cộ, bước chuyển & không gian đô thị (8 nhóm: Atmos, Doors, Hits, Metal & Debris, Risers, Textures, Vehicles, Whooshes) chuẩn WAV.",
+      "categories": [
+        "sfx"
+      ],
+      "item_count": 140,
+      "created_at": "2026-11-08T12:55:08.793309",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/urban_street_action_sfx.rfpack",
+      "size_mb": 305.8,
+      "tags": [
+        "sfx",
+        "urban",
+        "action",
+        "whooshes",
+        "hits",
+        "vehicles",
+        "atmos"
+      ]
+    },
+    {
+      "id": "dctl_pfa_color_suite",
+      "name": "Bộ DCTL Chỉnh Màu Điện Ảnh PFA Color Suite 2.0",
+      "version": "2.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "4 công cụ DCTL tinh chỉnh màu da và mật độ phim: PFA SkinMatch 2.0, Movie Density 2.0, FilmFade & Color Slider 2.0.",
+      "categories": [
+        "luts"
+      ],
+      "item_count": 4,
+      "created_at": "2026-11-08T12:55:08.793313",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_pfa_color_suite.rfpack",
+      "size_mb": 0.1,
+      "tags": [
+        "dctl",
+        "luts",
+        "pfa",
+        "skinmatch",
+        "filmfade",
+        "color"
+      ]
+    },
+    {
+      "id": "dctl_pixeltools_bundle",
+      "name": "Bộ Công Cụ Màu Chuyên Nghiệp PixelTools DCTL Bundle",
+      "version": "2.1.0",
+      "author": "ChunnDVC Vault",
+      "description": "27 DCTL cao cấp từ PixelTools (Exposure Tool, Filmic Contrast, Hue Shift, Prime Grade, Split Tone, Three Strip) hỗ trợ Windows, Linux và macOS.",
+      "categories": [
+        "luts"
+      ],
+      "item_count": 27,
+      "created_at": "2026-11-08T12:55:08.793317",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_pixeltools_bundle.rfpack",
+      "size_mb": 1.9,
+      "tags": [
+        "dctl",
+        "luts",
+        "pixeltools",
+        "hueshift",
+        "splittone",
+        "primegrade"
+      ]
+    },
+    {
+      "id": "dctl_filmverse_2_1",
+      "name": "Bộ Giả Lập Phim Điện Ảnh Filmverse 2.1 Pro DCTL & PowerGrades",
+      "version": "2.1.0",
+      "author": "ChunnDVC Vault",
+      "description": "15 DCTL & PowerGrades (.drx) giả lập màu phim điện ảnh Filmverse Pro 2.1 / 2.0 / 1.2 kèm tài liệu hướng dẫn Tiếng Việt và ảnh mẫu.",
+      "categories": [
+        "luts"
+      ],
+      "item_count": 15,
+      "created_at": "2026-11-08T12:55:08.793321",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_filmverse_2_1.rfpack",
+      "size_mb": 79.6,
+      "tags": [
+        "dctl",
+        "luts",
+        "filmverse",
+        "powergrade",
+        "drx",
+        "filmemulation"
+      ]
+    },
+    {
+      "id": "dctl_mononodes_v4",
+      "name": "Bộ DCTL Chuyên Sâu MonoNodes Look / Lab / Print V4 (Kèm Video Vietsub)",
+      "version": "4.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "Trọn bộ 149 công cụ MonoNodes Look/Lab/Print v4, Film Elements v2, Color Shift v4, Shaper, Hue Twist, RGB Split, Utility & Crop Pro kèm 19 video hướng dẫn (có Vietsub).",
+      "categories": [
+        "luts",
+        "titles"
+      ],
+      "item_count": 149,
+      "created_at": "2026-11-08T12:55:08.793324",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_mononodes_v4.rfpack",
+      "size_mb": 834.3,
+      "tags": [
+        "dctl",
+        "luts",
+        "mononodes",
+        "looklabprint",
+        "colorshift",
+        "vietsub"
+      ]
+    },
+    {
+      "id": "dctl_qazi_toolkit_vietsub",
+      "name": "Bộ Qazi's Toolkit (QT Bundle) DCTL + Video Hướng Dẫn Vietsub & Footage",
+      "version": "1.1.0",
+      "author": "ChunnDVC Vault",
+      "description": "16 plugin DCTL Qazi's Toolkit (Skin Compressor, Skin Juice, Look DNA, Film Density, Halation, Sat Control, Color Compressor, Charts) kèm video Masterclass Vietsub và 10 clip RAW/Log thực hành (ARRI Alexa 35/Mini, Sony FX3, BMD).",
+      "categories": [
+        "luts",
+        "memes"
+      ],
+      "item_count": 26,
+      "created_at": "2026-11-08T12:55:08.793328",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_qazi_toolkit_vietsub.rfpack",
+      "size_mb": 1733.8,
+      "tags": [
+        "dctl",
+        "luts",
+        "qazi",
+        "qtbundle",
+        "vietsub",
+        "practice_footage"
+      ]
+    }
+  ]
+}
