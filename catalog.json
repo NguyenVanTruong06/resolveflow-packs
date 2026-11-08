@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
+  "schema_version": 1,
+  "updated_at": "2026-11-08T13:38:00+07:00",
   "packs": [
     {
       "id": "acidbite_elements_sfx",
@@ -11,8 +12,8 @@
         "sfx"
       ],
       "item_count": 147,
-      "created_at": "2026-11-08T12:55:08.793249",
-      "download_url": "https://drive.google.com/file/d/1kva0qYbZF1tOJ7P_DObbkP7b_HPN-7V1/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453492",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/acidbite_elements_sfx.rfpack",
       "size_mb": 962.3,
       "tags": [
         "sfx",
@@ -32,8 +33,8 @@
         "transitions"
       ],
       "item_count": 12,
-      "created_at": "2026-11-08T12:55:08.793269",
-      "download_url": "https://drive.google.com/file/d/16zqeF1TClWTAC-53MaTtrYu3odfeb18K/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453518",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/davinci_speed_ramp_transitions.rfpack",
       "size_mb": 97.5,
       "tags": [
         "transitions",
@@ -54,8 +55,8 @@
         "sfx"
       ],
       "item_count": 1130,
-      "created_at": "2026-11-08T12:55:08.793274",
-      "download_url": "https://drive.google.com/file/d/12mouRJ7wbsJIe4bhABnoxo-MhOHw6wU9/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453524",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/davinci_gr44_seamless_transitions.rfpack",
       "size_mb": 288.1,
       "tags": [
         "transitions",
@@ -75,8 +76,8 @@
         "titles"
       ],
       "item_count": 6,
-      "created_at": "2026-11-08T12:55:08.793284",
-      "download_url": "https://drive.google.com/file/d/11Sk70Y_kfhpb1uU14kp_EJsDL3NzW-12/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453533",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/fusion_skin_retouching_macros.rfpack",
       "size_mb": 0.9,
       "tags": [
         "fusion",
@@ -97,8 +98,8 @@
         "overlays"
       ],
       "item_count": 74,
-      "created_at": "2026-11-08T12:55:08.793290",
-      "download_url": "https://drive.google.com/file/d/1Tkr6b0yaNrF9e-jpAIN3pIgC7J8F1Mg5/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453539",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/davinci_unfold_paper_animator.rfpack",
       "size_mb": 17.1,
       "tags": [
         "paper",
@@ -118,8 +119,8 @@
         "luts"
       ],
       "item_count": 8,
-      "created_at": "2026-11-08T12:55:08.793294",
-      "download_url": "https://drive.google.com/file/d/15S4dumr_su0OJGY7nuf-MQ4RB3FwIRwC/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453544",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/secret_sauce_cinema_luts.rfpack",
       "size_mb": 21.2,
       "tags": [
         "luts",
@@ -139,8 +140,8 @@
         "luts"
       ],
       "item_count": 8,
-      "created_at": "2026-11-08T12:55:08.793299",
-      "download_url": "https://drive.google.com/file/d/17Nl7vS-KcPrrMJquAg2Rs11_oXDfuUtZ/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453548",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/iphone_cinematic_luts.rfpack",
       "size_mb": 9.7,
       "tags": [
         "iphone",
@@ -160,8 +161,8 @@
         "memes"
       ],
       "item_count": 109,
-      "created_at": "2026-11-08T12:55:08.793302",
-      "download_url": "https://drive.google.com/file/d/1D7ay6vf6c1GOg4JTxuRMoCesg-GQCmbB/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453551",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/green_screen_memes_109.rfpack",
       "size_mb": 307.7,
       "tags": [
         "meme",
@@ -181,8 +182,8 @@
         "luts"
       ],
       "item_count": 2,
-      "created_at": "2026-11-08T12:55:08.793306",
-      "download_url": "https://drive.google.com/file/d/17Ysow6gRJITEOEbgnkU-xHk9cVDLn_ad/view?usp=sharing",
+      "created_at": "2026-11-08T13:37:56.453555",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dehancer_pro_ofx_plugin.rfpack",
       "size_mb": 661.7,
       "tags": [
         "dehancer",
@@ -190,6 +191,73 @@
         "plugin",
         "film",
         "grain"
+      ]
+    },
+    {
+      "id": "davinci_pre_animate_v2",
+      "name": "Bộ Hiệu Ứng Chuyển Động Nhanh Pre-Animate V2 (DaVinci Resolve)",
+      "version": "2.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "23 hiệu ứng chuyển động & zoom nhanh (Fast/Smooth Up, Down, Left, Right, Zoom In/Out V2) dạng Fusion .setting và gói .drfx kèm ảnh minh họa & video demo.",
+      "categories": [
+        "titles",
+        "transitions"
+      ],
+      "item_count": 24,
+      "created_at": "2026-11-08T13:37:56.453559",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/davinci_pre_animate_v2.rfpack",
+      "size_mb": 6.0,
+      "tags": [
+        "pre-animate",
+        "drfx",
+        "animation",
+        "fusion",
+        "davinci"
+      ]
+    },
+    {
+      "id": "dvr_digital_effects_powergrades",
+      "name": "Gói PowerGrades Hiệu Ứng Ống Kính & Tách Màu RGB (A2 Digital Effects)",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "Bộ PowerGrades (.drx/.dpx) chuyên dụng tạo hiệu ứng Vintage Lens Blur & RGB Split trực tiếp trong Color Gallery của DaVinci Resolve.",
+      "categories": [
+        "luts"
+      ],
+      "item_count": 2,
+      "created_at": "2026-11-08T13:37:56.453562",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dvr_digital_effects_powergrades.rfpack",
+      "size_mb": 9.6,
+      "tags": [
+        "powergrade",
+        "drx",
+        "lens_blur",
+        "rgb_split",
+        "color"
+      ]
+    },
+    {
+      "id": "sony_canon_monitor_luts",
+      "name": "Bộ Bảng Màu Monitor LUTs (Sony S-Log3 / Canon C-Log3 / Panasonic V-Log)",
+      "version": "1.0.0",
+      "author": "ChunnDVC Vault",
+      "description": "17 bảng màu Monitor & Rec.709 Conversion chuẩn .cube tối ưu cho Sony S-Log3 (Exposure -1.0 / -1.7), Canon C-Log3 và Panasonic V-Log.",
+      "categories": [
+        "luts"
+      ],
+      "item_count": 17,
+      "created_at": "2026-11-08T13:37:56.453574",
+      "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/sony_canon_monitor_luts.rfpack",
+      "size_mb": 20.5,
+      "tags": [
+        "luts",
+        "monitor",
+        "sony",
+        "slog3",
+        "canon",
+        "clog3",
+        "panasonic",
+        "vlog"
       ]
     },
     {
@@ -202,7 +270,7 @@
         "sfx"
       ],
       "item_count": 140,
-      "created_at": "2026-11-08T12:55:08.793309",
+      "created_at": "2026-11-08T13:37:56.453578",
       "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/urban_street_action_sfx.rfpack",
       "size_mb": 305.8,
       "tags": [
@@ -225,7 +293,7 @@
         "luts"
       ],
       "item_count": 4,
-      "created_at": "2026-11-08T12:55:08.793313",
+      "created_at": "2026-11-08T13:37:56.453584",
       "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_pfa_color_suite.rfpack",
       "size_mb": 0.1,
       "tags": [
@@ -247,7 +315,7 @@
         "luts"
       ],
       "item_count": 27,
-      "created_at": "2026-11-08T12:55:08.793317",
+      "created_at": "2026-11-08T13:37:56.453588",
       "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_pixeltools_bundle.rfpack",
       "size_mb": 1.9,
       "tags": [
@@ -269,7 +337,7 @@
         "luts"
       ],
       "item_count": 15,
-      "created_at": "2026-11-08T12:55:08.793321",
+      "created_at": "2026-11-08T13:37:56.453591",
       "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_filmverse_2_1.rfpack",
       "size_mb": 79.6,
       "tags": [
@@ -292,7 +360,7 @@
         "titles"
       ],
       "item_count": 149,
-      "created_at": "2026-11-08T12:55:08.793324",
+      "created_at": "2026-11-08T13:37:56.453595",
       "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_mononodes_v4.rfpack",
       "size_mb": 834.3,
       "tags": [
@@ -315,7 +383,7 @@
         "memes"
       ],
       "item_count": 26,
-      "created_at": "2026-11-08T12:55:08.793328",
+      "created_at": "2026-11-08T13:37:56.453599",
       "download_url": "https://github.com/NguyenVanTruong06/resolveflow-packs/releases/download/v1.0.0/dctl_qazi_toolkit_vietsub.rfpack",
       "size_mb": 1733.8,
       "tags": [
